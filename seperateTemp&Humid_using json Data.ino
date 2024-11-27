@@ -98,3 +98,8 @@ void loop() {
     // Wait before sending new data
     delay(2000);  // Delay for 2 seconds between readings
 }
+
+//const obj=JSON.parse(msg.payload);
+//var tempre = obj.Temp;
+//msg.payload=tempre
+//return msg;
